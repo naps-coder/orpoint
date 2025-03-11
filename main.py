@@ -1,6 +1,6 @@
 from datetime import datetime
 import pytz
-import mysql.connector
+
 import getpass
 import argparse
 import hashlib
