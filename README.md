@@ -1,2 +1,4 @@
 # orpoint
-minimal score tracker for small companies.
+minimal score tracker via terminal for small companies.
+<br>
+because i love terminals.
