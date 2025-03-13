@@ -35,3 +35,5 @@ def login ():
            | |                                     
            |_|                                     """)
 
+call_time()
+login()
