@@ -5,5 +5,5 @@ def get_db_connection():
         host = "localhost",
         user = "admin",
         password = "admin",
-        database = "ponto"
+        database = "orpoint"
     )
