@@ -6,7 +6,8 @@ def get_db_connection():
         host = "localhost",
         user = "admin",
         password = "admin",
-        database = "orpoint"
+        database = "orpoint",
+        autocommit=False
     )
 
 #cnx = get_db_connection()
